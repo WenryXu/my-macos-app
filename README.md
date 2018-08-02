@@ -26,3 +26,4 @@
 - [GIPHY CAPTURE](https://giphy.com/apps/giphycapture) - 屏幕录制，可导出为多种格式
 - [Sketch](https://www.sketchapp.com/) - 设计界的神器
 - [Alfred 3](https://www.alfredapp.com/) - 快捷启动器，功能强大且丰富，插件众多，用于替换系统自带的 Spotlight
+- [Simplenote](https://simplenote.com/) - 支持 Markdown 和多人协作的笔记应用
