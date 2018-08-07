@@ -5,7 +5,7 @@
 - [NightOwl](https://nightowl.kramser.xyz/) - macOS Mojave 外观管理，可一键切换到黑暗模式，或根据日出/日落自动切换
 - [Gifski](https://gif.ski/) - 将视频转换为 Gif 图
 - [HEIC Converter](https://sindresorhus.com/heic-converter) - 将 HEIC 图片转换为 JPEG 或 PNG
-- [Paste Plain Text](https://itunes.apple.com/cn/app//id1407015686) - 清除剪切板中复制内容的样式
+- [Paste Plain Text](https://itunes.apple.com/cn/app/id1407015686) - 清除剪切板中复制内容的样式
 - [幕布](https://mubu.com/) - 思维导图工具
 - [Visual Studio Code](https://code.visualstudio.com/) - 大名鼎鼎的 VS Code，代码编辑器
 - [Bartender 3](https://www.macbartender.com/) - 菜单栏管理工具，隐藏部分图标，让菜单栏更简洁
@@ -27,3 +27,6 @@
 - [Sketch](https://www.sketchapp.com/) - 设计界的神器
 - [Alfred 3](https://www.alfredapp.com/) - 快捷启动器，功能强大且丰富，插件众多，用于替换系统自带的 Spotlight
 - [Simplenote](https://simplenote.com/) - 支持 Markdown 和多人协作的笔记应用
+- [iPic Mover](https://itunes.apple.com/cn/app/id1183822957) - 将 Markdown 文件中的本地图片迁移到图床并更换链接
+- [iPic](https://itunes.apple.com/cn/app/id1101244278) - 上传图片到图床，收费，免费版只能上传到微博
+- [mac2imgur](https://github.com/mileswd/mac2imgur) - iPic 替代品，上传图片到 imgur 图床
