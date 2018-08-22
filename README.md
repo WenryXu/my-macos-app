@@ -26,7 +26,6 @@
 - [Kap](https://getkap.co/) - 开源的屏幕录制工具
 - [Sketch](https://www.sketchapp.com/) - 设计界的神器
 - [Alfred 3](https://www.alfredapp.com/) - 快捷启动器，功能强大且丰富，插件众多，用于替换系统自带的 Spotlight
-- [Simplenote](https://simplenote.com/) - 支持 Markdown 和多人协作的笔记应用
 - [iPic Mover](https://itunes.apple.com/cn/app/id1183822957) - 将 Markdown 文件中的本地图片迁移到图床并更换链接
 - [iPic](https://itunes.apple.com/cn/app/id1101244278) - 上传图片到图床，收费，免费版只能上传到微博
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - iPic 替代品，上传图片到 imgur 图床
