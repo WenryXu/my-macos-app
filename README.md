@@ -30,3 +30,4 @@
 - [iPic](https://itunes.apple.com/cn/app/id1101244278) - 上传图片到图床，收费，免费版只能上传到微博
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - iPic 替代品，上传图片到 imgur 图床
 - [Shifty](https://shifty.natethompson.io/en/) - 强化系统自带的 Night Shift（夜览）功能
+- [Mos](https://mos.caldis.me/) - 滚轮方向翻转、平滑滚动
