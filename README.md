@@ -6,7 +6,6 @@
 - [Gifski](https://gif.ski/) - 将视频转换为 Gif 图
 - [HEIC Converter](https://sindresorhus.com/heic-converter) - 将 HEIC 图片转换为 JPEG 或 PNG
 - [Paste Plain Text](https://itunes.apple.com/cn/app/id1407015686) - 清除剪切板中复制内容的样式
-- [幕布](https://mubu.com/) - 思维导图工具
 - [Visual Studio Code](https://code.visualstudio.com/) - 大名鼎鼎的 VS Code，代码编辑器
 - [Bartender 3](https://www.macbartender.com/) - 菜单栏管理工具，隐藏部分图标，让菜单栏更简洁
 - [Snipaste](https://www.snipaste.com/) - 截图工具，用于替换系统自带截图
@@ -31,3 +30,4 @@
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - iPic 替代品，上传图片到 imgur 图床
 - [Shifty](https://shifty.natethompson.io/en/) - 强化系统自带的 Night Shift（夜览）功能
 - [Mos](https://mos.caldis.me/) - 滚轮方向翻转、平滑滚动
+- [落格输入法](https://im.logcg.com/loginputmac2) - 优秀的双拼输入法，现已支持全拼，超越原生输入法的体验，收费
