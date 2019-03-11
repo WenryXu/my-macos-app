@@ -61,8 +61,10 @@
 - [Paste Plain Text](https://itunes.apple.com/cn/app/id1407015686) - 清除剪切板中复制内容的样式
 - [PlistEdit Pro](https://www.fatcatsoftware.com/plisteditpro/) - 修改系统的 .plist 文件
 - [Postman](https://www.getpostman.com/) - API 接口测试工具
+- [RunCat](https://itunes.apple.com/cn/app/id1429033973) - 菜单栏小宠物，CPU 使用量越高，跑得越快，有多种动物和物品可选
 - [SetApp](https://setapp.com/) - 订阅一处，享用数十款付费 App
 - [Shifty](https://shifty.natethompson.io/en/) - 强化系统自带的 Night Shift（夜览）功能
+- [Timing](https://timingapp.com/) - 事务记录工具，能够记录你访问了哪些网站、使用了哪些 App 以及使用的时间，并分析你的生产效率
 - [The Unarchiver](https://theunarchiver.com/) - 静默的归档增强工具
 - [Tunnelblick](https://tunnelblick.net/) - OpenVPN 客户端，只是一个客户端，不提供服务
 - [落格输入法](https://im.logcg.com/loginputmac2) - 优秀的双拼输入法，现已支持全拼，超越原生输入法的体验，收费
