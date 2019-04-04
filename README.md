@@ -60,6 +60,7 @@
 - [Noted](https://itunes.apple.com/cn/app/id1446580517) - 录音笔记，能够在记录笔记的时间给录音打点
 - [Paste Plain Text](https://itunes.apple.com/cn/app/id1407015686) - 清除剪切板中复制内容的样式
 - [PlistEdit Pro](https://www.fatcatsoftware.com/plisteditpro/) - 修改系统的 .plist 文件
+- [Pock](https://github.com/pigigaldi/Pock) - 将 Touch Bar 作为 Dock 使用，开源
 - [Postman](https://www.getpostman.com/) - API 接口测试工具
 - [RunCat](https://itunes.apple.com/cn/app/id1429033973) - 菜单栏小宠物，CPU 使用量越高，跑得越快，有多种动物和物品可选
 - [SetApp](https://setapp.com/) - 订阅一处，享用数十款付费 App
