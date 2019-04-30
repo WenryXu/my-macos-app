@@ -43,10 +43,14 @@
 - [iPic](https://itunes.apple.com/cn/app/id1101244278) - 上传图片到图床，收费，免费版只能上传到微博
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - iPic 替代品，上传图片到 imgur 图床
 
+## 邮件客户端
+
+- [Canary Mail](https://canarymail.io/) - 邮件客户端，付费，支持 SetApp
+- 🌟[Spark](https://sparkmailapp.com/zh) - 免费的全平台邮件客户端
+
 ## 其他
 
 - [Alfred 3](https://www.alfredapp.com/) - 快捷启动器，功能强大且丰富，插件众多，用于替换系统自带的 Spotlight
-- [Canary Mail](https://canarymail.io/) - 邮件客户端
 - [Gifski](https://gif.ski/) - 将视频转换为 Gif 图
 - [HEIC Converter](https://sindresorhus.com/heic-converter) - 将 HEIC 图片转换为 JPEG 或 PNG
 - [IINA](https://lhc70000.github.io/iina/) - 视频播放器
@@ -54,6 +58,7 @@
 - [iHosts](https://github.com/toolinbox/iHosts) - hosts 文件管理工具，免除手动编辑系统文件
 - [iTerm](https://www.iterm2.com/) - Terminal，用于替换系统自带的终端
 - [Karabiner](https://pqrs.org/osx/karabiner/) - 键盘映射，就是改键位
+- [Lightweight PDF](https://itunes.apple.com/cn/app/id1450640351) - PDF 压缩
 - [Magnet](http://magnet.crowdcafe.com/) - 窗口布局管理工具
 - [Mounty](http://enjoygineering.com/mounty/) - 挂载 NTFS 格式的移动硬盘或 U 盘
 - [NightOwl](https://nightowl.kramser.xyz/) - macOS Mojave 外观管理，可一键切换到黑暗模式，或根据日出/日落自动切换
@@ -62,6 +67,7 @@
 - [PlistEdit Pro](https://www.fatcatsoftware.com/plisteditpro/) - 修改系统的 .plist 文件
 - [Pock](https://github.com/pigigaldi/Pock) - 将 Touch Bar 作为 Dock 使用，开源
 - [Postman](https://www.getpostman.com/) - API 接口测试工具
+- [Reeder 4](https://itunes.apple.com/cn/app/id1449412482) - 久负盛名的 RSS 阅读器
 - [RunCat](https://itunes.apple.com/cn/app/id1429033973) - 菜单栏小宠物，CPU 使用量越高，跑得越快，有多种动物和物品可选
 - [SetApp](https://setapp.com/) - 订阅一处，享用数十款付费 App
 - [Shifty](https://shifty.natethompson.io/en/) - 强化系统自带的 Night Shift（夜览）功能
