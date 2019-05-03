@@ -50,6 +50,10 @@
 - [Canary Mail](https://canarymail.io/) - 邮件客户端，付费，支持 SetApp
 - [Spark](https://sparkmailapp.com/zh) - 免费的全平台邮件客户端
 
+## 解压缩软件
+- [BetterZip 4](https://macitbetter.com/) - 解压缩软件
+- [The Unarchiver](https://theunarchiver.com/) - 静默的归档增强工具
+
 ## 其他
 
 - [Alfred 3](https://www.alfredapp.com/) - 快捷启动器，功能强大且丰富，插件众多，用于替换系统自带的 Spotlight
@@ -73,7 +77,6 @@
 - [SetApp](https://setapp.com/) - 订阅一处，享用数十款付费 App
 - [Shifty](https://shifty.natethompson.io/en/) - 强化系统自带的 Night Shift（夜览）功能
 - [Timing](https://timingapp.com/) - 事务记录工具，能够记录你访问了哪些网站、使用了哪些 App 以及使用的时间，并分析你的生产效率
-- [The Unarchiver](https://theunarchiver.com/) - 静默的归档增强工具
 - [Tunnelblick](https://tunnelblick.net/) - OpenVPN 客户端，只是一个客户端，不提供服务
 - [落格输入法](https://im.logcg.com/loginputmac2) - 优秀的双拼输入法，现已支持全拼，超越原生输入法的体验，收费
 
