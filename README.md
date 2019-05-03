@@ -48,7 +48,7 @@
 ## 邮件客户端
 
 - [Canary Mail](https://canarymail.io/) - 邮件客户端，付费，支持 SetApp
-- 🌟[Spark](https://sparkmailapp.com/zh) - 免费的全平台邮件客户端
+- [Spark](https://sparkmailapp.com/zh) - 免费的全平台邮件客户端
 
 ## 其他
 
