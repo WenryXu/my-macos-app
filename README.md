@@ -3,10 +3,11 @@
 ## 系统管理
 
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - 干净且轻量的应用卸载方式
-- 🌟[CleanMyMac X](https://macpaw.com/cleanmymac) - OS X 系统管理工具，更优秀的 360 安全卫士
+- [CleanMyMac X](https://macpaw.com/cleanmymac) - OS X 系统管理工具，更优秀的 360 安全卫士
 - [iHosts](https://github.com/toolinbox/iHosts) - hosts 文件管理工具，免除手动编辑系统文件
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - 查看系统运行状态，如 CPU 占用、硬盘剩余空间、网速等
 - 🌟[SwitchHosts!](https://oldj.github.io/SwitchHosts/) - hosts 管理工具
+- 🌟[腾讯柠檬清理](https://mac.gj.qq.com/) - macOS 系统清理工具
 
 ## 菜单栏管理
 
