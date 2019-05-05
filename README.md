@@ -61,6 +61,7 @@
 - [Gifski](https://gif.ski/) - 将视频转换为 Gif 图
 - [HEIC Converter](https://sindresorhus.com/heic-converter) - 将 HEIC 图片转换为 JPEG 或 PNG
 - [IINA](https://lhc70000.github.io/iina/) - 视频播放器
+- [Icon Fun](https://itunes.apple.com/cn/app/id1202847196) - 生成适应不同设备的 App Icon
 - [Itsycal](https://www.mowglii.com/itsycal/) - 菜单栏日历，用于替换系统自带日期、时间展示
 - [iTerm](https://www.iterm2.com/) - Terminal，用于替换系统自带的终端
 - [Karabiner](https://pqrs.org/osx/karabiner/) - 键盘映射，就是改键位
@@ -79,6 +80,7 @@
 - [Shifty](https://shifty.natethompson.io/en/) - 强化系统自带的 Night Shift（夜览）功能
 - [Timing](https://timingapp.com/) - 事务记录工具，能够记录你访问了哪些网站、使用了哪些 App 以及使用的时间，并分析你的生产效率
 - [Tunnelblick](https://tunnelblick.net/) - OpenVPN 客户端，只是一个客户端，不提供服务
+- [WaitingList](http://www.waitinglist.maxgribov.pro/) - 倒数日
 - [落格输入法](https://im.logcg.com/loginputmac2) - 优秀的双拼输入法，现已支持全拼，超越原生输入法的体验，收费
 - [休息一下](https://itunes.apple.com/cn/app/id1457158844) - 保护视力、缓解疲劳、提升工作效率
 
