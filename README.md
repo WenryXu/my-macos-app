@@ -58,6 +58,7 @@
 ## 其他
 
 - [Alfred 3](https://www.alfredapp.com/) - 快捷启动器，功能强大且丰富，插件众多，用于替换系统自带的 Spotlight
+- [Fantastical 2](https://itunes.apple.com/cn/app/id975937182) - 日历
 - [Gifski](https://gif.ski/) - 将视频转换为 Gif 图
 - [HEIC Converter](https://sindresorhus.com/heic-converter) - 将 HEIC 图片转换为 JPEG 或 PNG
 - [IINA](https://lhc70000.github.io/iina/) - 视频播放器
@@ -71,8 +72,10 @@
 - [NightOwl](https://nightowl.kramser.xyz/) - macOS Mojave 外观管理，可一键切换到黑暗模式，或根据日出/日落自动切换
 - [Noted](https://itunes.apple.com/cn/app/id1446580517) - 录音笔记，能够在记录笔记的时间给录音打点
 - [Paste Plain Text](https://itunes.apple.com/cn/app/id1407015686) - 清除剪切板中复制内容的样式
+- [Perculia](https://itunes.apple.com/cn/app/id1462633284) - 蓝牙助手，在菜单栏显示链接设备与电量
 - [PlistEdit Pro](https://www.fatcatsoftware.com/plisteditpro/) - 修改系统的 .plist 文件
 - [Pock](https://github.com/pigigaldi/Pock) - 将 Touch Bar 作为 Dock 使用，开源
+- [PopClip](https://pilotmoon.com/popclip/) - 文本选中增强工具
 - [Postman](https://www.getpostman.com/) - API 接口测试工具
 - [Reeder 4](https://itunes.apple.com/cn/app/id1449412482) - 久负盛名的 RSS 阅读器
 - [RunCat](https://itunes.apple.com/cn/app/id1429033973) - 菜单栏小宠物，CPU 使用量越高，跑得越快，有多种动物和物品可选
