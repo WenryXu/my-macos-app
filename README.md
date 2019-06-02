@@ -58,6 +58,7 @@
 ## 其他
 
 - [Alfred 3](https://www.alfredapp.com/) - 快捷启动器，功能强大且丰富，插件众多，用于替换系统自带的 Spotlight
+- [ClashX](https://github.com/yichengchen/clashX/releases) - VPN 代理工具
 - [Fantastical 2](https://itunes.apple.com/cn/app/id975937182) - 日历
 - [Gifski](https://gif.ski/) - 将视频转换为 Gif 图
 - [HEIC Converter](https://sindresorhus.com/heic-converter) - 将 HEIC 图片转换为 JPEG 或 PNG
