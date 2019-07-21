@@ -84,6 +84,7 @@
 - [Shifty](https://shifty.natethompson.io/en/) - 强化系统自带的 Night Shift（夜览）功能
 - [Timing](https://timingapp.com/) - 事务记录工具，能够记录你访问了哪些网站、使用了哪些 App 以及使用的时间，并分析你的生产效率
 - [Tunnelblick](https://tunnelblick.net/) - OpenVPN 客户端，只是一个客户端，不提供服务
+- [uTools](https://u.tools/) - 生产力工具合集
 - [WaitingList](http://www.waitinglist.maxgribov.pro/) - 倒数日
 - [落格输入法](https://im.logcg.com/loginputmac2) - 优秀的双拼输入法，现已支持全拼，超越原生输入法的体验，收费
 - [休息一下](https://itunes.apple.com/cn/app/id1457158844) - 保护视力、缓解疲劳、提升工作效率
