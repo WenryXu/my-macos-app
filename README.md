@@ -30,6 +30,8 @@
 - 🌟[Xnip](https://itunes.apple.com/cn/app/id1221250572) - 截图工具，支持添加标记
 - 🌟[腾讯柠檬清理](https://mac.gj.qq.com/) - macOS 系统清理工具
 - [休息一下](https://itunes.apple.com/cn/app/id1457158844) - 保护视力、缓解疲劳、提升工作效率
+- 🌟[One Switch](https://fireball.studio/oneswitch/) - 强大的 macOS 工具合集
+- [卡卡](https://apps.apple.com/cn/app/id1434172933) - 瑞星小狮子桌面宠物
 
 ## 软件开发工具
 - [iHosts](https://github.com/toolinbox/iHosts) - hosts 文件管理工具，免除手动编辑系统文件
