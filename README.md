@@ -31,7 +31,6 @@
 - 🌟[腾讯柠檬清理](https://mac.gj.qq.com/) - macOS 系统清理工具
 - [休息一下](https://itunes.apple.com/cn/app/id1457158844) - 保护视力、缓解疲劳、提升工作效率
 - 🌟[One Switch](https://fireball.studio/oneswitch/) - 强大的 macOS 工具合集
-- [卡卡](https://apps.apple.com/cn/app/id1434172933) - 瑞星小狮子桌面宠物
 
 ## 软件开发工具
 - [iHosts](https://github.com/toolinbox/iHosts) - hosts 文件管理工具，免除手动编辑系统文件
@@ -48,6 +47,7 @@
 - [Spark](https://sparkmailapp.com/zh) - 免费的全平台邮件客户端
 
 ## 视频
+- [ArcTime Pro](http://arctime.cn/) - 跨平台的视频字幕创作软件
 - [Gifski](https://gif.ski/) - 将视频转换为 Gif 图
 - 🌟[GIPHY CAPTURE](https://giphy.com/apps/giphycapture) - 屏幕录制，可导出为多种格式
 - [IINA](https://lhc70000.github.io/iina/) - 视频播放器
