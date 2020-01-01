@@ -5,7 +5,8 @@
 - [Bartender 3](https://www.macbartender.com/) - 菜单栏管理工具，隐藏部分图标，让菜单栏更简洁，但是会导致菜单栏变卡
 - [BetterZip 4](https://macitbetter.com/) - 解压缩软件
 - [ClashX](https://github.com/yichengchen/clashX/releases) - VPN 代理工具
-- 🌟[Dozer](https://github.com/DozerMapper/dozer) - 菜单栏管理工具，隐藏部分图标，开源免费
+- [Dozer](https://github.com/DozerMapper/dozer) - 菜单栏管理工具，隐藏部分图标，开源免费
+- 🌟[Hidden Bar](https://github.com/dwarvesf/hidden) - 菜单栏管理工具，隐藏部分图标，开源免费
 - [iPic Mover](https://itunes.apple.com/cn/app/id1183822957) - 将 Markdown 文件中的本地图片迁移到图床并更换链接
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - 查看系统运行状态，如 CPU 占用、硬盘剩余空间、网速等
 - [Itsycal](https://www.mowglii.com/itsycal/) - 菜单栏日历，用于替换系统自带日期、时间展示
