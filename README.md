@@ -43,7 +43,7 @@
 - [Spark](https://sparkmailapp.com/zh) - 免费的全平台邮件客户端
 
 ## 视频
-- [ArcTime Pro](http://arctime.cn/) - 跨平台的视频字幕创作软件
+- 🌟[ArcTime Pro](http://arctime.cn/) - 跨平台的视频字幕创作软件
 - [Gifski](https://gif.ski/) - 将视频转换为 Gif 图
 - 🌟[GIPHY CAPTURE](https://giphy.com/apps/giphycapture) - 屏幕录制，可导出为多种格式
 - [IINA](https://lhc70000.github.io/iina/) - 视频播放器
