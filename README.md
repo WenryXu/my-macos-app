@@ -3,7 +3,6 @@
 ## 工具
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - 干净且轻量的应用卸载方式
 - [Bartender 3](https://www.macbartender.com/) - 菜单栏管理工具，隐藏部分图标
-- [Dozer](https://github.com/DozerMapper/dozer) - 菜单栏管理工具，隐藏部分图标，开源免费
 - 🌟[Hidden Bar](https://github.com/dwarvesf/hidden) - 菜单栏管理工具，隐藏部分图标，开源免费
 - [iPic Mover](https://itunes.apple.com/cn/app/id1183822957) - 将 Markdown 文件中的本地图片迁移到图床并更换链接
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - 查看系统运行状态，如 CPU 占用、硬盘剩余空间、网速等
@@ -18,7 +17,6 @@
 - [RunCat](https://itunes.apple.com/cn/app/id1429033973) - 菜单栏小宠物，CPU 使用量越高，跑得越快，有多种动物和物品可选
 - 🌟[The Unarchiver](https://theunarchiver.com/) - 静默的归档增强工具
 - [Tunnelblick](https://tunnelblick.net/) - OpenVPN 客户端，只是一个客户端，不提供服务、
-- [WaitingList](http://www.waitinglist.maxgribov.pro/) - 倒数日
 - 🌟[Xnip](https://itunes.apple.com/cn/app/id1221250572) - 截图工具，支持添加标记
 - 🌟[腾讯柠檬清理](https://mac.gj.qq.com/) - macOS 系统清理工具
 - [休息一下](https://itunes.apple.com/cn/app/id1457158844) - 保护视力、缓解疲劳、提升工作效率
@@ -40,7 +38,7 @@
 - 🌟[ArcTime Pro](http://arctime.cn/) - 跨平台的视频字幕创作软件
 - [Gifski](https://gif.ski/) - 将视频转换为 Gif 图
 - 🌟[GIPHY CAPTURE](https://giphy.com/apps/giphycapture) - 屏幕录制，可导出为多种格式
-- [IINA](https://lhc70000.github.io/iina/) - 视频播放器
+- 🌟[IINA](https://lhc70000.github.io/iina/) - 视频播放器
 
 ## 图形和设计
 - [iPic](https://itunes.apple.com/cn/app/id1101244278) - 上传图片到图床，收费，免费版只能上传到微博
