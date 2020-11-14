@@ -3,7 +3,7 @@
 ## 工具
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - 干净且轻量的应用卸载方式
 - 💖 [Bartender 4](https://www.macbartender.com/) - 菜单栏管理工具，隐藏部分图标，收费，可 Setapp
-- [CleanMyMac X](https://cleanmymac.com/zh) - Mac 清理工具，收费，可 Setapp
+- 💖 [CleanMyMac X](https://cleanmymac.com/zh) - Mac 清理工具，收费，可 Setapp
 - [Clipy](https://github.com/Clipy/Clipy) - 记录剪贴板历史
 - 💖 [HazeOver](https://hazeover.com/) - 增加蒙层，高亮前台应用，收费，可 Setapp
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - 菜单栏管理工具，隐藏部分图标，开源免费
