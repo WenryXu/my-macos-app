@@ -11,6 +11,7 @@
 - 💖 [iStat Menus](https://bjango.com/mac/istatmenus/) - 查看系统运行状态，如 CPU 占用、硬盘剩余空间、网速等，收费，可 Setapp
 - [Itsycal](https://www.mowglii.com/itsycal/) - 菜单栏日历，用于替换系统自带日期、时间展示
 - 💖 [Karabiner](https://pqrs.org/osx/karabiner/) - 键盘映射，就是改键位
+- [MacZip](https://maczip.cn/) - 压缩工具
 - 💖 [Magnet](http://magnet.crowdcafe.com/) - 窗口布局管理工具
 - 💖 [Mos](https://mos.caldis.me/) - 滚轮方向翻转、平滑滚动
 - 💖 [Mounty](http://enjoygineering.com/mounty/) - 挂载 NTFS 格式的移动硬盘或 U 盘
