@@ -48,6 +48,7 @@
 
 ## 图形和设计
 - [HEIC Converter](https://sindresorhus.com/heic-converter) - 将 HEIC 图片转换为 JPEG 或 PNG
+- [VRoid Studio](https://vroid.com/en/studio) - 3D 角色建模软件
 
 ## 效率
 - 💖 [Alfred 3](https://www.alfredapp.com/) - 快捷启动器，功能强大且丰富，插件众多，用于替换系统自带的 Spotlight
