@@ -1,6 +1,7 @@
 # My macOS App
 
 ## 工具
+- [AltTab](https://alt-tab-macos.netlify.app/) - 让 macOS 的 Alt + Tab 切换可以预览 App 内容
 - 💖 [Android File Transfer](https://www.android.com/filetransfer/) - mac 与 Android 设备文件传输工具
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - 干净且轻量的应用卸载方式
 - 💖 [Bartender 4](https://www.macbartender.com/) - 菜单栏管理工具，隐藏部分图标，收费，可 Setapp
